@@ -26,7 +26,7 @@ SECRET_KEY = 'r$kfldw#2!#(0ncnn7cfcmog2a_(mqa!m7r&jw-78f@zqw)5^x'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+#trsdsf
 
 # Application definition
 
