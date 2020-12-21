@@ -1,6 +1,6 @@
 print('Heloo')
 print('deploy')
 print('deploy')
-#atualizae dev/1
+#atualizar dev/1
 
 
